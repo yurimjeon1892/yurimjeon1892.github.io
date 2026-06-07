@@ -23,7 +23,7 @@ title: About Me
 
 <br>
 
-<p style="color: #ff8fc7;"><strong>News:</strong> "CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation" is now available on arXiv!</p>
+<p style="color: #ff8fc7;">News:"CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation" is now available on arXiv!</p>
 
 Hello! I'm Yurim Jeon. My research interests lie in developing robust perception systems for autonomous driving in real-world scenarios.
 
