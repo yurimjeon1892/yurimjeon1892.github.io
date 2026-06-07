@@ -23,18 +23,12 @@ title: About Me
 
 <br>
 
-Hello! I'm Yurim Jeon. My research interests lie in developing robust perception systems for autonomous driving in real-world scenarios. My research topics include:
+**News:** "CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation" is now available on arXiv!
 
-* Depth completion
-* Image-to-point cloud registration
-* Off-road traversability estimation
+Hello! I'm Yurim Jeon. My research interests lie in developing robust perception systems for autonomous driving in real-world scenarios.
 
-As a result of my research, I published several papers in RA-L and presented my work at IROS and ICRA. 
+Through my research, I have published several papers in RA-L and presented my work at IROS and ICRA. You can find my publications on my [research page]({https://yurimjeon1892.github.io/category/research.html}).
 
-Currently, I am an AI/ML Engineer at Boeing Korea, where I apply advanced machine learning and artificial intelligence techniques to solve complex problems in various domains.
+Currently, I am a Staff Engineer at the Future Robotics Office, Samsung Electronics, where I develop advanced perception systems for humanoid robots.
 
-Previously, I worked as a research scientist at Thordrive, an autonomous driving company, where I developed deep learning-based multi-sensor object detection modules for autonomous vehicles and established and maintained an automatic labeling system for a large-scale object detection dataset.
-
-Before that, I was a postdoctoral researcher at Seoul National University, where I researched perception systems for autonomous driving in off-road environments, leading a project focused on estimating traversable spaces.
-
-I completed my M.S. and Ph.D. at the Vehicle Intelligence Laboratory at Seoul National University, Republic of Korea. Before that, I obtained my B.S. in the Department of Electrical and Computer Engineering at Seoul National University.
+I completed my M.S. and Ph.D. at the Vehicle Intelligence Laboratory, Seoul National University, Republic of Korea. Before that, I obtained my B.S. in the Department of Electrical and Computer Engineering, also at Seoul National University.
