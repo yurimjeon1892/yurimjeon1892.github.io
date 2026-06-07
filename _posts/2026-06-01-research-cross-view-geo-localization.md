@@ -8,7 +8,7 @@ categories: Research
 <div align="center">
     <div style="position: relative; padding-bottom: 56.25%; height: 0;">
         <iframe 
-        src="https://youtu.be/Z8bKGTeyeSk" 
+        src="https://www.youtube.com/embed/Z8bKGTeyeSk" 
         frameborder="0" 
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen
