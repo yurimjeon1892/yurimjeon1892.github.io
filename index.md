@@ -23,11 +23,11 @@ title: About Me
 
 <br>
 
-**News:** "CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation" is now available on arXiv!
+<p style="color: #ff8fc7;"><strong>News:</strong> "CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation" is now available on arXiv!</p>
 
 Hello! I'm Yurim Jeon. My research interests lie in developing robust perception systems for autonomous driving in real-world scenarios.
 
-Through my research, I have published several papers in RA-L and presented my work at IROS and ICRA. You can find my publications on my [research page]({https://yurimjeon1892.github.io/category/research.html}).
+Through my research, I have published several papers in RA-L and presented my work at IROS and ICRA. You can find my publications on my [research page](https://yurimjeon1892.github.io/category/research.html).
 
 Currently, I am a Staff Engineer at the Future Robotics Office, Samsung Electronics, where I develop advanced perception systems for humanoid robots.
 
